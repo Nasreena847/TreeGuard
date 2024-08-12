@@ -13,7 +13,7 @@ The TreeGuard app is an interactive platform designed to educate users about the
 ## Technologies Used
 
 - **Frontend:** HTML, CSS, JavaScript
-- - **3D Visualizations:** Utilizes Three.js to create interactive 3D elements that enhance user engagement and provide a dynamic visual representation of deforestation concepts.
+- **3D Visualizations:** Utilizes Three.js to create interactive 3D elements that enhance user engagement and provide a dynamic visual representation of deforestation concepts.
   
 ## Installation
 
