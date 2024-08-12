@@ -4,7 +4,7 @@
 
 The TreeGuard app is an interactive platform designed to educate users about the impact of deforestation on the environment. The app features an animated video highlighting key points about deforestation, its causes, effects, and possible solutions. The video is central to the app and aims to engage users through a visually appealing and informative presentation.
 
-[link](https://github.com/Nasreena847/TreeGuard/blob/main/Screenshot%20(146).png)
+![](https://github.com/Nasreena847/TreeGuard/blob/main/Screenshot%20(146).png)
 
 
 ## Features
